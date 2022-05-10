@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 14 10:45:28 CST 2022
+okio-jvm-2.8.0.pom>=
+okio-jvm-2.8.0.jar>=

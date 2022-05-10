@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 14 10:41:26 CST 2022
+okhttp-3.12.0.pom>=
+okhttp-3.12.0.jar>=
