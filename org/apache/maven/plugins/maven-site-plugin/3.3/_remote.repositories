@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:43:38 CST 2022
+#Wed May 18 11:02:38 CST 2022
 maven-site-plugin-3.3.pom>central=
+maven-site-plugin-3.3.pom>nexus-aliyun=
+maven-site-plugin-3.3.jar>nexus-aliyun=
 maven-site-plugin-3.3.jar>central=

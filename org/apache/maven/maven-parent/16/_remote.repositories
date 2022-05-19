@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:43:41 CST 2022
+#Wed May 18 11:02:41 CST 2022
 maven-parent-16.pom>central=
+maven-parent-16.pom>nexus-aliyun=

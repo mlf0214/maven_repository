@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:42:47 CST 2022
+#Wed May 18 11:02:22 CST 2022
 xbean-reflect-3.4.jar>central=
+xbean-reflect-3.4.jar>nexus-aliyun=
 xbean-reflect-3.4.pom>central=
+xbean-reflect-3.4.pom>nexus-aliyun=

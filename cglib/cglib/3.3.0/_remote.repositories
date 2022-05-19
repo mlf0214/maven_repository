@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 17 17:04:41 CST 2022
+cglib-3.3.0.pom>central=
+cglib-3.3.0.jar>nexus-aliyun=
+cglib-3.3.0.pom>nexus-aliyun=
+cglib-3.3.0.jar>central=

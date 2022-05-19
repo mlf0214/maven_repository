@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:42:47 CST 2022
-plexus-compiler-api-2.2.jar>central=
+#Wed May 18 11:02:22 CST 2022
+plexus-compiler-api-2.2.jar>nexus-aliyun=
+plexus-compiler-api-2.2.pom>nexus-aliyun=
 plexus-compiler-api-2.2.pom>central=
+plexus-compiler-api-2.2.jar>central=

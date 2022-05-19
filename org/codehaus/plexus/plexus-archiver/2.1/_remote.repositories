@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:41:19 CST 2022
-plexus-archiver-2.1.pom>central=
+#Wed May 18 11:01:20 CST 2022
+plexus-archiver-2.1.pom>nexus-aliyun=
 plexus-archiver-2.1.jar>central=
+plexus-archiver-2.1.jar>nexus-aliyun=
+plexus-archiver-2.1.pom>central=

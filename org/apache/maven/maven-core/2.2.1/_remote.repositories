@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:41:51 CST 2022
+#Wed May 18 11:02:05 CST 2022
 maven-core-2.2.1.pom>central=
+maven-core-2.2.1.pom>nexus-aliyun=

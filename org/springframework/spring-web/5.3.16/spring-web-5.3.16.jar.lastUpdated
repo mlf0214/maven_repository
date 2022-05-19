@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 17 16:53:30 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1652777610924
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:5.3.16 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar from central failed

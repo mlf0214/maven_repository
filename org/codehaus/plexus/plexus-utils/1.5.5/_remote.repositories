@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:42:05 CST 2022
+#Wed May 18 11:02:13 CST 2022
 plexus-utils-1.5.5.pom>central=
+plexus-utils-1.5.5.pom>nexus-aliyun=

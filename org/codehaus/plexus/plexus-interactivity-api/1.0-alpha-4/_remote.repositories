@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:41:04 CST 2022
-plexus-interactivity-api-1.0-alpha-4.jar>central=
+#Tue May 17 18:16:30 CST 2022
 plexus-interactivity-api-1.0-alpha-4.pom>central=
+plexus-interactivity-api-1.0-alpha-4.jar>nexus-aliyun=
+plexus-interactivity-api-1.0-alpha-4.jar>central=
+plexus-interactivity-api-1.0-alpha-4.pom>nexus-aliyun=

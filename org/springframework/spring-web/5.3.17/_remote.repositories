@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Apr 19 10:32:38 CST 2022
-spring-web-5.3.17.jar>central=
+#Wed May 18 10:59:34 CST 2022
 spring-web-5.3.17.pom>central=
+spring-web-5.3.17.jar>central=
+spring-web-5.3.17.jar>nexus-aliyun=
+spring-web-5.3.17.pom>nexus-aliyun=

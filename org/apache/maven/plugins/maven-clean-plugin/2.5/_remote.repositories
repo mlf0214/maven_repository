@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 13 13:05:55 CST 2022
-maven-clean-plugin-2.5.jar>central=
+#Wed May 18 11:00:17 CST 2022
 maven-clean-plugin-2.5.pom>central=
+maven-clean-plugin-2.5.jar>nexus-aliyun=
+maven-clean-plugin-2.5.pom>nexus-aliyun=
+maven-clean-plugin-2.5.jar>central=

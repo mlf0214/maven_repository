@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Apr 17 15:40:33 CST 2022
+#Wed May 18 11:00:19 CST 2022
 forge-parent-5.pom>central=
+forge-parent-5.pom>nexus-aliyun=

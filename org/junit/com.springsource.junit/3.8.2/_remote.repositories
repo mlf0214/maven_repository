@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 12 09:24:55 CST 2022
+com.springsource.junit-3.8.2.pom>spring-ext=
+com.springsource.junit-3.8.2.jar>spring-ext=
